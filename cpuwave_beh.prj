@@ -1,0 +1,8 @@
+vhdl work "visitmodule.vhd"
+vhdl work "storagemodule.vhd"
+vhdl work "rewritemodule.vhd"
+vhdl work "fetchmodule.vhd"
+vhdl work "clockmodule.vhd"
+vhdl work "calcmodule.vhd"
+vhdl work "cpu.vhd"
+vhdl work "cpuwave.vhd"

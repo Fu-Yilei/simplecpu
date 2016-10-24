@@ -1,0 +1,2 @@
+vhdl isim_temp "clockmodule.vhd"
+vhdl isim_temp "clockwave.vhd"

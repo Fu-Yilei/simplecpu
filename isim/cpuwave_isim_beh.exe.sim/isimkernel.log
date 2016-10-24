@@ -1,0 +1,28 @@
+Command line:
+   cpuwave_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49177
+
+Sat Jul 30 01:53:35 2016
+
+
+ Elaboration Time: 0.0624 sec
+
+ Current Memory Usage: 666.833 Meg
+
+ Total Signals          : 121
+ Total Nets             : 291
+ Total Signal Drivers   : 37
+ Total Blocks           : 11
+ Total Primitive Blocks : 9
+ Total Processes        : 10
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 670
+
+ Total Simulation Time: 0.0936 sec
+
+ Current Memory Usage: 666.833 Meg
+
+Sat Jul 30 01:58:38 2016
+

@@ -1,0 +1,8 @@
+vhdl isim_temp "visitmodule.vhd"
+vhdl isim_temp "storagemodule.vhd"
+vhdl isim_temp "rewritemodule.vhd"
+vhdl isim_temp "fetchmodule.vhd"
+vhdl isim_temp "clockmodule.vhd"
+vhdl isim_temp "calcmodule.vhd"
+vhdl isim_temp "cpu.vhd"
+vhdl isim_temp "cpuwave.vhd"

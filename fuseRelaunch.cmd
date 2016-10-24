@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/14.7/ISE_DS/simplecpu/cpuwave_isim_beh.exe" -prj "C:/Xilinx/14.7/ISE_DS/simplecpu/cpuwave_beh.prj" "work.cpuwave" 

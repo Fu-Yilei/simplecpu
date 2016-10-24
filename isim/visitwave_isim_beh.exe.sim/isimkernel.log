@@ -1,0 +1,28 @@
+Command line:
+   visitwave_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49175
+
+Sat Jul 30 01:52:13 2016
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 666.821 Meg
+
+ Total Signals          : 45
+ Total Nets             : 141
+ Total Signal Drivers   : 19
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 3
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 519
+
+ Total Simulation Time: 0.109201 sec
+
+ Current Memory Usage: 981.393 Meg
+
+Sat Jul 30 01:53:20 2016
+
